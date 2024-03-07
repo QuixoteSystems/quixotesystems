@@ -8,7 +8,14 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Python for Cybersecurity projects and Decentralized Systems.
   
-- 🌱 I’m currently interested in Cybersecurity and Decentralized Systems.
+- 🌱 I’m currently interested in:
+  -   Cybersecurity
+  -   Nostr
+  -   Meshtastic
+  -   Bitcoin
+  -   Cardano
+  -   Hacking
+  -   Decentralized Systems.
   
 
 
