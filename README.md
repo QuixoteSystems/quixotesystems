@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Python for Blockchain and Cybersecurity projects.
   
-- 🌱 I’m currently learning about Cybersecurity, Cardano and Bitcoin.
+- 🌱 I’m currently learning about Cybersecurity, Meshtastic and Bitcoin.
   
-- 👯 I’m looking to collaborate on Open Source Python projects related to Cardano, Bitcoin or Cybersecurity.
+- 👯 I’m looking to collaborate on Open Source Python projects related to Meshtastic, Bitcoin or Cybersecurity.
 
 
