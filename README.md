@@ -15,7 +15,8 @@ Here are some ideas to get you started:
   -   Bitcoin
   -   Cardano
   -   Hacking
-  -   Decentralized Systems.
+  -   Decentralized Systems
+  -   Freedom Tools
   
 
 
