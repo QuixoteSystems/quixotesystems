@@ -9,11 +9,12 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Python for Cybersecurity projects and Decentralized Systems.
   
 - 🌱 I’m interested in:
-  -   Cybersecurity
+  -   eCash (Cashu)
   -   Nostr
   -   Meshtastic
   -   Bitcoin
   -   Cardano
+  -   Cybersecurity
   -   Hacking
   -   Decentralized Systems
   -   Freedom Tools
