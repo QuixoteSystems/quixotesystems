@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Python for Cybersecurity projects and Decentralized Systems.
   
 - 🌱 I’m interested in:
+  -   Forensic Research / Tools
   -   Reticulum
   -   Meshtastic
   -   Bitcoin
@@ -19,4 +20,5 @@ Here are some ideas to get you started:
   -   Freedom Tools
   
 
-If you want to help me: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M81CV1EX)
+If you want to help me:
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M81CV1EX)
