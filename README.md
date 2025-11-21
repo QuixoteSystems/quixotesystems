@@ -9,11 +9,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Python for Cybersecurity projects and Decentralized Systems.
   
 - 🌱 I’m interested in:
+  -   Decentralized Communications (Ham Radio, Digi Modes, CB, Meshtastic, Reticulum...)
   -   Forensic Research / Tools
-  -   Reticulum
-  -   Meshtastic
-  -   Bitcoin
-  -   Cardano
+  -   Bitcoin & Cardano
   -   Cybersecurity
   -   Hacking
   -   Decentralized Systems
