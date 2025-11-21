@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Python for Cybersecurity projects and Decentralized Systems.
+- 🔭 I’m currently working on Python for Cybersecurity projects and Decentralized Communication Systems.
   
 - 🌱 I’m interested in:
   -   Decentralized Communications (Ham Radio, Digi Modes, CB, Meshtastic, Reticulum...)
